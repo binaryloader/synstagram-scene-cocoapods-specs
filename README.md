@@ -1,0 +1,1 @@
+# synstagram-scene-cocoapods-specs

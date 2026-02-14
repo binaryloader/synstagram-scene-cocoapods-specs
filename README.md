@@ -6,7 +6,7 @@ Private CocoaPods spec repository for Synstagram scene pods.
 
 | Pod | Latest Version | Description |
 |-----|---------------|-------------|
-| LoginScene | 1.0.8 | Login scene with VIP architecture |
+| LoginScene | 1.0.10 | Login scene with VIP architecture |
 
 ## Usage
 

@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.source_files = 'LoginScene/Module/Source/**/*.{swift,xib}'
   s.resource = 'LoginScene/Module/Resources/*.xcassets'
 
-  s.dependency 'BinaryloaderExtensions', '1.0.2'
-  s.dependency 'BinaryloaderUI/InsetTextField', '1.0.2'
+  s.dependency 'BinaryLoaderExtensions', '1.0.2'
+  s.dependency 'BinaryLoaderUI/InsetTextField', '1.0.2'
   s.dependency 'APIService/Auth', '1.0.5'
 end
